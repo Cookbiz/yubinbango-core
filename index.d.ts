@@ -1,1 +1,1 @@
-interface Yubinbango {}
+export declare const Core:any
